@@ -22,4 +22,5 @@ Back in the Terminal, type: python entity_extraction.py and watch the output.
 
 ### Evaluation for JOUR389W
 
-PUT YOUR EVALUATION HERE
+I'm either doing this assignment incorrectly or just not looking in the right place, especially considering that theres nothing showing up in the output section. 
+
